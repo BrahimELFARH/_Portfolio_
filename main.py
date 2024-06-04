@@ -22,7 +22,7 @@ st.info('''
 
 - Parallèlement à mon travail, je suis actuellement candidat à plusieurs programmes de Master ainsi qu'à des écoles d'ingénieurs spécialisées dans le domaine de la Science des Données. Mon objectif est de continuer à approfondir mes connaissances et compétences dans ce domaine en poursuivant mes études supérieures.
 
-- De plus, je suis à la recherche d'une nouvelle opportunité d'alternance. Je suis convaincu que cette expérience supplémentaire enrichira encore davantage mon parcours professionnel et me permettra d'appliquer mes connaissances dans un nouvel environnement professionnel stimulant."
+- De plus, je suis à la recherche d'une nouvelle opportunité d'alternance. Je suis convaincu que cette expérience supplémentaire enrichira encore davantage mon parcours professionnel et me permettra d'appliquer mes connaissances dans un nouvel environnement professionnel stimulant.
 ''')
 
 # téléchargement du CV
